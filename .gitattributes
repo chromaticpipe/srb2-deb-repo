@@ -1,3 +1,4 @@
+srb2-data_2.2.13-20241001224031_all.deb filter=lfs diff=lfs merge=lfs -text
 /InRelease filter=lfs diff=lfs merge=lfs -text
 *.gpg filter=lfs diff=lfs merge=lfs -text
 /Packages filter=lfs diff=lfs merge=lfs -text
