@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d793d4995b36f79ac2432ac46cc874005364b5a03016b8681f4177c9400a4bc
-size 1204
+Date: Wed, 02 Oct 2024 20:35:43 +0000
+MD5Sum:
+ ceee545d568127027054389aa690b7a1             2986 Packages
+ 511158fd4911217f8a8eb42416be95f3               38 Release
+SHA1:
+ 8c4a8a177815328b390647ac1bba8f4d4a38b7eb             2986 Packages
+ 6b93e7779ffb774152913d74dc21e691c01e167c               38 Release
+SHA256:
+ eeab5a82f6f4b8d946ce7c8a88846710ae483316ff5e1ca313daaebbe2e923b8             2986 Packages
+ 6ff66e231a89d0a1e7b79777a73dbf53c1e8583a9be44aab37f9d87ca77e51db               38 Release
+SHA512:
+ 7f3cbcf219cd29f111d7205519435e099d6ad757c9ea77f33f644082a1ac3f92561de2a56205586816a2bca0e1086749f9919cb169aa51fa622a822e32d9a147             2986 Packages
+ 93700b45a64d35863a2f1a690561d5b32cab10fc9dc4d105bbce498375e4054a58c1b3cd6ccfa414eb96a104de16a9037dfced5a2e53e75eb6c5b4fd0adc79b6               38 Release

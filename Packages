@@ -1,0 +1,70 @@
+Package: srb2
+Version: 2.2.13-20241001224031
+Architecture: amd64
+Maintainer: Sonic Team Junior <stjr@srb2.org>
+Installed-Size: 4983
+Depends: srb2-data (>> 2.2.12), srb2-data (<< 2.2.14), libsdl2-2.0-0, libsdl2-mixer-2.0-0, zlib1g, libgme0, libopenmpt | libopenmpt0, libpng | libpng16-16 | libpng12-0
+Filename: ./srb2_2.2.13-20241001224031_amd64.deb
+Size: 2124100
+MD5sum: 4067c286b02a04cb76a9c71d68091ad9
+SHA1: e550d932be00aa98b0198279b0c8d82abe2317de
+SHA256: e8acecfe23f2a09170e3174bf294160978f714d757837b222b6f0b0e98257afb
+Section: games
+Priority: extra
+Homepage: <http://www.srb2.org>
+Description: A cross-platform 3D Sonic fangame
+ Sonic Robo Blast 2 is a 3D open-source Sonic the Hedgehog
+ fangame built using a modified version of the Doom Legacy
+ port of Doom. SRB2 is closely inspired by the original
+ Sonic games from the Sega Genesis, and attempts to recreate
+ the design in 3D. It features tons of levels, enemies, speed,
+ and quite a lot of the fun that the original Sonic games provided.
+
+Package: srb2-data
+Version: 2.2.13-20241001224031
+Architecture: all
+Maintainer: Sonic Team Junior <stjr@srb2.org>
+Installed-Size: 170885
+Filename: ./srb2-data_2.2.13-20241001224031_all.deb
+Size: 146116890
+MD5sum: 0391c28ddd2c183108916a294e53173c
+SHA1: 59bf360113e38d6a4f6642c9d29ea497f5c9f07d
+SHA256: 42776756170688b7bf845e44a6d249b739bdc2de369cf0c63e928e1c2c9b8103
+Section: games
+Priority: extra
+Homepage: <http://www.srb2.org>
+Description: A cross-platform 3D Sonic fangame
+ Sonic Robo Blast 2 is a 3D open-source Sonic the Hedgehog
+ fangame built using a modified version of the Doom Legacy
+ port of Doom. SRB2 is closely inspired by the original
+ Sonic games from the Sega Genesis, and attempts to recreate
+ the design in 3D. It features tons of levels, enemies, speed,
+ and quite a lot of the fun that the original Sonic games provided.
+ This is the data package that provides the data files that
+ SRB2 requires to run; it will not work without it.
+
+Package: srb2-dbg
+Source: srb2
+Version: 2.2.13-20241001224031
+Architecture: amd64
+Maintainer: Sonic Team Junior <stjr@srb2.org>
+Installed-Size: 10
+Depends: libc6, srb2-data (>> 2.2.12), srb2-data (<< 2.2.14), srb2
+Filename: ./srb2-dbg_2.2.13-20241001224031_amd64.deb
+Size: 1640
+MD5sum: 1d7364637265c5d10dc4d239038e91d2
+SHA1: e16a1fbc5158ee1c0a90880918171f86e560ac87
+SHA256: 72072eb3dcdb3d598d93ad8448e024c653c5067a18e475054fe4d48db6a147b0
+Section: games
+Priority: extra
+Homepage: <http://www.srb2.org>
+Description: A cross-platform 3D Sonic fangame
+ Sonic Robo Blast 2 is a 3D open-source Sonic the Hedgehog
+ fangame built using a modified version of the Doom Legacy
+ port of Doom. SRB2 is closely inspired by the original
+ Sonic games from the Sega Genesis, and attempts to recreate
+ the design in 3D. It features tons of levels, enemies, speed,
+ and quite a lot of the fun that the original Sonic games provided.
+ This is a debug binary; its symbols will be loaded by gdb
+ when the user starts the game with gdb for debugging.
+
