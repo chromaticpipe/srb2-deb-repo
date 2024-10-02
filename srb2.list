@@ -1,1 +1,3 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/srb2-deb-repo.gpg] https://chromaticpipe.github.io/srb2-deb-repo ./
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b4d5258f459453b2090e0f0217f72a85e354751c48367b058dc7961f61b687d
+size 106
