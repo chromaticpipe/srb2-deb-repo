@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/srb2-deb-repo.gpg] https://.github.io/srb2-deb-repo ./
+deb [signed-by=/etc/apt/trusted.gpg.d/srb2-deb-repo.gpg] https://chromaticpipe.github.io/srb2-deb-repo ./
